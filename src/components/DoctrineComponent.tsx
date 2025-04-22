@@ -77,7 +77,7 @@ const DoctrineComponent = () => {
               Knowing who you are and who God made you to become is a profound realization for every follower
               of Jesus. We believe you are uniquely gifted and have specific, God-given talents that you can use
               to make an impact in your world. Through hands-on experience and intentional mentorship, we are
-              committed to seeing you identify your calling and the next step to fulfilling it. {/* Ensure any apostrophe (') on this line (around character 49) is replaced with &apos; */}
+              committed to seeing you identify your calling and the next step to fulfilling it. 
             </p>
           </motion.div>
         </motion.div>
