@@ -60,7 +60,7 @@ const DoctrineComponent = () => {
           >
             <h2 className="text-4xl md:text-5xl font-bold md:w-1/3">Develop</h2>
             <p className="md:w-2/3 text-lg leading-relaxed">
-              Being a follower of Jesus in today's culture is challenging. Our heart is to give you space to develop 
+              Being a follower of Jesus in todays culture is challenging. Our heart is to give you space to develop 
               Godly character and practical life skills so that you may excel in ministry and the marketplace 
               while embracing Biblical principles. We hope that when you graduate MTC, you stand out in 
               excellence and are able to exhibit Christ in every context.
