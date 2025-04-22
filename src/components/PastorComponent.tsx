@@ -62,7 +62,7 @@ const PastorComponent = () => {
               variants={textItemVariants}
             >
               We are thrilled to introduce a program that not only imparts the teachings of
-              God&apos;s Word to emerging leaders but also empowers them to harness and {/* Changed God's to God&apos;s */}
+              God Word to emerging leaders but also empowers them to harness and 
               express their unique gifts and talents, all while gaining invaluable experience
               in ministry. It is an honor for us to be a place where these leaders receive
               training, and we are humbled by the opportunity to contribute to the
