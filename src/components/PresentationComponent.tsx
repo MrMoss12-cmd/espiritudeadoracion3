@@ -55,8 +55,8 @@ const PresentationComponent = () => {
           Discover the power of faith-based learning with Bible College. Our unique approach to Bible
           study combines the best of traditional scholarship with the latest technologies. Uncover the
           spiritual truths of Scripture with our interactive curriculum - from lectures and textbooks to
-          online quizzes and discussion forums - and gain a deeper understanding of God's Word.
-          Whether you're a beginner or experienced student, Bible College will help you develop your
+          online quizzes and discussion forums - and gain a deeper understanding of God&apos;s Word. {/* Changed God's to God&apos;s */}
+          Whether you&apos;re a beginner or experienced student, Bible College will help you develop your {/* Changed you're to you&apos;re */}
           faith and enrich your life. Take your faith to the next level and join us today!
         </motion.p>
 

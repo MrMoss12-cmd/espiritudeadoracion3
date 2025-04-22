@@ -2,8 +2,8 @@
 
 import { useState } from 'react';
 import Link from 'next/link';
-import Image from 'next/image';
-import { motion, AnimatePresence } from 'framer-motion'; // Import motion and AnimatePresence
+// import Image from 'next/image'; // Remove this line
+import { motion, AnimatePresence } from 'framer-motion';
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);

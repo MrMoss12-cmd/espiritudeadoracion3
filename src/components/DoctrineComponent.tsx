@@ -74,10 +74,10 @@ const DoctrineComponent = () => {
           >
             <h2 className="text-4xl md:text-5xl font-bold md:w-1/3">Discover</h2>
             <p className="md:w-2/3 text-lg leading-relaxed">
-              Knowing who you are and who God made you to become is a profound realization for every follower 
-              of Jesus. We believe you are uniquely gifted and have specific, God-given talents that you can use 
-              to make an impact in your world. Through hands-on experience and intentional mentorship, we are 
-              committed to seeing you identify your calling and the next step to fulfilling it.
+              Knowing who you are and who God made you to become is a profound realization for every follower
+              of Jesus. We believe you are uniquely gifted and have specific, God-given talents that you can use
+              to make an impact in your world. Through hands-on experience and intentional mentorship, we are
+              committed to seeing you identify your calling and the next step to fulfilling it. {/* Ensure no unescaped apostrophes like "you're" or "God's" exist here. If they do, change to "you&apos;re" or "God&apos;s" */}
             </p>
           </motion.div>
         </motion.div>

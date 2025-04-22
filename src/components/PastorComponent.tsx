@@ -61,15 +61,15 @@ const PastorComponent = () => {
               className="text-gray-600 leading-relaxed"
               variants={textItemVariants}
             >
-              We are thrilled to introduce a program that not only imparts the teachings of 
-              God's Word to emerging leaders but also empowers them to harness and 
-              express their unique gifts and talents, all while gaining invaluable experience 
-              in ministry. It is an honor for us to be a place where these leaders receive 
-              training, and we are humbled by the opportunity to contribute to the 
-              preparation and commissioning of the next generation of leaders. As we look 
-              to the future, we are filled with anticipation and confidence in how God will 
-              continue to utilize our Bible College to raise up leaders who will make a 
-              profound impact on our communities. We firmly believe that the most 
+              We are thrilled to introduce a program that not only imparts the teachings of
+              God&apos;s Word to emerging leaders but also empowers them to harness and {/* Changed God's to God&apos;s */}
+              express their unique gifts and talents, all while gaining invaluable experience
+              in ministry. It is an honor for us to be a place where these leaders receive
+              training, and we are humbled by the opportunity to contribute to the
+              preparation and commissioning of the next generation of leaders. As we look
+              to the future, we are filled with anticipation and confidence in how God will
+              continue to utilize our Bible College to raise up leaders who will make a
+              profound impact on our communities. We firmly believe that the most
               remarkable chapters of our journey are yet to unfold!
             </motion.p>
 
